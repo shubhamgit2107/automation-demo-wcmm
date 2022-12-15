@@ -8,6 +8,12 @@ public class samplegen {
 	public void samplegenericlib()
 	{
 		System.out.println("generic");
+		
+		
+		System.out.println("github");
 	}
+	
+	
+	
 
 }
