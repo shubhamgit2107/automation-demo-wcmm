@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-15T17:53:17 IST" name="Default suite" finished-at="2022-12-15T17:53:18 IST" duration-ms="110">
+  <suite started-at="2022-12-17T17:07:09 IST" name="Default suite" finished-at="2022-12-17T17:07:09 IST" duration-ms="238">
     <groups>
     </groups>
-    <test started-at="2022-12-15T17:53:17 IST" name="Default test" finished-at="2022-12-15T17:53:18 IST" duration-ms="110">
-      <class name="github.Gitpush">
-        <test-method signature="push()[pri:0, instance:github.Gitpush@d4342c2]" started-at="2022-12-15T17:53:18 IST" name="push" finished-at="2022-12-15T17:53:18 IST" duration-ms="19" status="PASS">
+    <test started-at="2022-12-17T17:07:09 IST" name="Default test" finished-at="2022-12-17T17:07:09 IST" duration-ms="238">
+      <class name="branchingpractice.Branching">
+        <test-method signature="orgWithContact()[pri:0, instance:branchingpractice.Branching@12b0404f]" started-at="2022-12-17T17:07:09 IST" name="orgWithContact" finished-at="2022-12-17T17:07:09 IST" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- push -->
-      </class> <!-- github.Gitpush -->
+        </test-method> <!-- orgWithContact -->
+      </class> <!-- branchingpractice.Branching -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
